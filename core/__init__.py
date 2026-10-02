@@ -1,0 +1,3 @@
+"""
+Core ResearchLM application logic.
+"""
